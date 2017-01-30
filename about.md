@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A weekly blog by Will Kuglen for the class CS371p Object-Oriented Programming
 
-### More Information
+### Contact:
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[wkuglen@utexas.edu](mailto:wkuglen@utexas.edu)
