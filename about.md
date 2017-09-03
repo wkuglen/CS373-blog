@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A weekly blog by Will Kuglen for the class CS371p Object-Oriented Programming
+A weekly blog by Will Kuglen for the class CS373 Software Engineering
 
 ### Contact:
 
