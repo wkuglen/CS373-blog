@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: "CS373 Software Engineering 2017: William Kuglen"
+name: CS373 Software Engineering 2017: William Kuglen
 
 # Short bio or description (displayed in the header)
 description: A blog for Software Engineering
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/wkuglen/CS371p-blog/master/images/head_shot_small.JPG #https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/wkuglen/CS373-blog/master/images/head_shot_small.JPG #https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
