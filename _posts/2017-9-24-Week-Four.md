@@ -16,4 +16,4 @@ For this class, the second project is due on Thursday. I know my group would lik
 As I mentioned above, I did not realize that the second project did not require React.js, so I wish it were a bit clearer (or at least I had read a bit more carefully) what was required for the second project and what the requirements for the entire project were.
 
 ### What's my pick-of-the-week or tip-of-the-week?
-Last week I went to the MAD Advanced Web Development Workshop. If you are like me and have just started to learn JavaScript or React.js, I would recommend going. The workshops are every other Wednesday in GDC 1.304 from 5pm to 6pm. You can find the repository for the workshop here: https://github.com/txcsmad/f17-advanced-web
+Last week I went to the MAD Advanced Web Development Workshop. If you are like me and have just started to learn JavaScript or React.js, I would recommend going. The workshops are every other Wednesday in GDC 1.304 from 5pm to 6pm. You can find the repository for the workshop here: [https://github.com/txcsmad/f17-advanced-web](https://github.com/txcsmad/f17-advanced-web)
